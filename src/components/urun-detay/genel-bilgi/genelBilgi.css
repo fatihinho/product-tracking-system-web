@@ -1,0 +1,16 @@
+.genelBilgi {
+  background-color: #282c34;
+  color: white;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+}
+
+.genelBilgi-header {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+p {
+  font-size: 18px;
+}
